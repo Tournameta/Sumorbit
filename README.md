@@ -1,4 +1,5 @@
-# [Sumorbit](https://sumorbit.com)
+[![image](https://user-images.githubusercontent.com/47956021/217515531-01e4744a-72bc-4c82-8b05-6e4a1dfd882a.png)](https://sumorbit.com)
+
 A physics based fighting game where planets sumo wrestle.
 
 ## [Bugs and suggestions](https://github.com/Tournameta/Sumorbit/issues)
