@@ -6,6 +6,7 @@ A physics based fighting game where planets sumo wrestle.
 - Submit bugs and suggestions under the [Issues tab](https://github.com/Tournameta/Sumorbit/issues)
 - Search existing issues before creating a new one
 - If you find your issue has already been logged, give the post a 👍 or add extra info as a comment
+- Bug reports should ideally include video recording
 
 ### Don't have a GitHub account?
 Send your feedback in the [Sumorbit Discord](https://discord.gg/Mc78SG86dC).
